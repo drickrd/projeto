@@ -1,1 +1,1 @@
-derecr
+notepad teste.txt
